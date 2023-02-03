@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: Home
 title: Camera Sensor
 nav_order: 2
 has_children: true
