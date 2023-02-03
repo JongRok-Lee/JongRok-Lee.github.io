@@ -2,7 +2,7 @@
 layout: default
 title: Test
 parent: Lidar Sensor
-nav_order: 3
+nav_order: 1
 ---
 
 # Test Page
