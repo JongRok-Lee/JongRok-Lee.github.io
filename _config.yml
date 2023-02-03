@@ -1,8 +1,8 @@
 title: OpenJR
 description: I hope my knowledge is helpful to many people.
 theme: just-the-docs
-baseurl: "/OpenJR"
 url: https://JongRok-Lee.github.io/
+locale: "ko-KR"
 
 # Enable or disable the site search
 search_enabled: true
