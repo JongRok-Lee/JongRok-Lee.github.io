@@ -1,5 +1,5 @@
 ---
-layout: Home
+layout: default
 title: LiDAR Sensor
 nav_order: 3
 has_children: true
