@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Test"
+title: Test
 parent: Camera Sensor
 nav_order: 1
 ---
