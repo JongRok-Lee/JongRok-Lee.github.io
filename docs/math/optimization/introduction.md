@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Introduction
-parent: Camera Coordinate
+parent: Optimization
+grand_parent: Math
 nav_order: 1
 ---
 
