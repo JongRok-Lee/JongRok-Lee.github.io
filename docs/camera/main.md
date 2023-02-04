@@ -7,11 +7,3 @@ permalink: docs/camera
 ---
 
 # Camera Sensor
-
-<script src="https://utteranc.es/client.js"
-        repo="JongRok-Lee / JongRok-Lee.github.io"
-        issue-term="pathname"
-        theme="gruvbox-dark"
-        crossorigin="anonymous"
-        async>
-</script>
