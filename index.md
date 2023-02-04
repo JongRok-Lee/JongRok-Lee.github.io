@@ -1,8 +1,10 @@
 ---
-title: Home
+title: JongRok's Blog
 layout: home
 nav_order: 1
 ---
-# 배운 것은 항상 기록!
+# JongRok's Blog
 {: .fs-9 }
-기록되지 않은 것은 기억되지 않는다나까부리.
+Hi, I'm JongRok Lee. and I'm a Perception Engineer.
+{: .fs-6 .fw-300 } 
+
