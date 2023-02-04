@@ -17,6 +17,7 @@ nav_order: 1
 ```yml
 title: OpenJR
 description: I hope my knowledge is helpful to many people.
+theme: just-the-docs
 url: https://JongRok-Lee.github.io/
 
 # Enable or disable the site search
