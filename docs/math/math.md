@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Math
-nav_order: 4
+nav_order: 5
 has_children: true
 permalink: docs/math
 ---
