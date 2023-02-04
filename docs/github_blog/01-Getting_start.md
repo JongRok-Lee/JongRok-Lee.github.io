@@ -5,7 +5,8 @@ parent: Github Blog
 nav_order: 1
 ---
 
-# Just the Docs 테마 가져오기
+# 1. Getting started
+## Just the Docs 테마 가져오기
 첫번째로 해야 할 것은, [Just the Docs](https://pmarsceill.github.io/just-the-docs/) 테마를 가져오는 것입니다. 
 ![Just the Docs](/assets/images/github_blog/01-getting-started/start_icon.png)
 위 버튼을 누르면 아래와 같은 화면이 나오며 레포지토리의 이름을 username.github.io로 설정해야 합니다. 
